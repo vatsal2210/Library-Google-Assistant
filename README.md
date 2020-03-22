@@ -44,4 +44,4 @@ Library Google Assistant demo app
 
 ## Demo
 
-[!Demo](./demo.png)
+[!Demo](./Library Assistant - Vatsal Shah - Video.mp4)
