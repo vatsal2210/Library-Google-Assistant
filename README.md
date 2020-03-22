@@ -1,6 +1,8 @@
 # Library-Google-Assistant
 Library Google Assistant demo app
 
+![App](home.jpg)
+
 ## Why library voice assistant?
 
 - Voice control from any Google assistant compatible devices
